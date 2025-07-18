@@ -1,0 +1,9 @@
+{
+  "visualization": "index.js",
+  "name": "Rounded Bar Chart (Chart.js)",
+  "description": "Bar chart with rounded corners using Chart.js",
+  "authors": ["Looker Studio Pro"],
+  "style": "style.css",
+  "logoUrl": "https://raw.githubusercontent.com/chartjs/Chart.js/main/docs/assets/logo.svg",
+  "supportsCustomStyling": true
+}
